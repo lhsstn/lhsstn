@@ -1,5 +1,6 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=HYEONSEOK%LIM%Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=transparent&color=00bfff&height=200&section=header&text=HYEONSEOK%LIM%Github!&fontSize=65" />	
+
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
