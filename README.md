@@ -33,13 +33,3 @@
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 </div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhsstn&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=lhsstn&show_icons=true">
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flhsstn&count_bg=%239E9E9E&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
