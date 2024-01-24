@@ -35,4 +35,4 @@
 </div>
 
 # News
-- Yesterday, 나 성공했어요. Deadlift 110KG!!!
+### - Yesterday, 나 성공했어요. Deadlift 110KG!!!
