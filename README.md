@@ -35,4 +35,5 @@
 </div>
 
 # News
-### - Yesterday, 나 성공했어요. Deadlift 110KG!!!
+### Yesterday, 나 성공했어요. Deadlift 110KG!!!
+### 오늘의 와드, 30-20-10 reps for time : Cal-row / Box Jump Over / Pull Up / Kettlebell Swing .. 나 죽을 수도 있어요, 오늘 TT
