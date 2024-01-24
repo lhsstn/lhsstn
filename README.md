@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=I'm%20interested%20in%20LLM,LMM,MLLM,MLMM.&fontSize=65" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=I'm%20interested%20in%20LLM,LMM,MLLM,MLMM.&fontSize=40" />	
 
 </div>
 <div align=center>
