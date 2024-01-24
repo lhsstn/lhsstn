@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=저는%20있어요%20관심%LLM,LMM,MLLM,MLMM%20에.&fontSize=40" />	
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=저는%20있어요%20관심%20LLM,LMM,MLLM,MLMM%20에.&fontSize=40" />	
 
 </div>
 <div align=center>
