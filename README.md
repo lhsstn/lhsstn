@@ -38,3 +38,4 @@
 ### Yesterday, 나 성공했어요. Deadlift 110KG!!!
 ### Today's WOD is 30-20-10 reps for time : Cal-row / Box Jump Over / Pull Up / Kettlebell Swing .. 나 죽을 수도 있어요, 오늘 TT
 ### 박스 점프 하다가 걸려서 넘어졌어요 ㅠㅜ
+### 허리 박살났다가 03.11 크로스핏 복귀했어요 !!
