@@ -36,6 +36,3 @@
 
 # News
 ### 없습니다.
-
-[![Watch the video](https://img.youtube.com/vi/5YZj3bCq-6I/maxresdefault.jpg)](https://youtu.be/5YZj3bCq-6I)
-
