@@ -37,4 +37,5 @@
 # News
 ### 없습니다.
 
-<iframe width="562" height="323" src="https://www.youtube.com/embed/5YZj3bCq-6I" title="Bllossom-V 시연" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/5YZj3bCq-6I/maxresdefault.jpg)](https://youtu.be/5YZj3bCq-6I)
+
