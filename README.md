@@ -11,9 +11,6 @@
 	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Scikit-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 </div>
 <br>
 <div align=center>
