@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=E0FFFF&height=200&section=header&text=저는%20있어요%20관심%20CrossFit에.&fontSize=40" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=E0FFFF&height=200&section=header&text=어%20서%20오%20세%20요.&fontSize=40" />	
 
 </div>
 <div align=center>
@@ -32,6 +32,4 @@
 </div>
 
 # News
-### 인바디 점수 88점 달성 ㅋ
-### 골격근 41.5kg 달성 ㅋ
-### 메트콘 구매 ㅋ
+### 없습니다.
